@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rubysage20
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Information Technology
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on Coding projects
 - 📫 How to reach me ...
 
