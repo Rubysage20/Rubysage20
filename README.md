@@ -25,7 +25,7 @@ Created a realistic 3D scene with terrain, Phong lighting, shaders, and textures
 
 ### 🧾 Snowball Stand POS
 Developed a console-based point-of-sale system with order tracking and receipt generation in Java.
-- **GitHub**: [Snowball Stand](https://github.com/Rubysage20/Snowball-Stand)
+- **GitHub**: [Snowball Stand](https://github.com/Rubysage20/SnowballStand.git)
 
 ### 📚 Library Management System
 Built a system to manage book check-ins, returns, and due dates in C++.
