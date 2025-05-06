@@ -37,7 +37,7 @@ Created automated tests for a Java inventory system using JUnit and Maven.
 
 ### ✈️ SNHU Travel Agency Application (Scrum Project)
 Developed a desktop-based travel agency system using Visual Basic to simulate booking and navigation features.
-- **GitHub**: [SNHU Travel](https://github.com/Rubysage20/SNHU-Travel)
+- **GitHub**: [SNHU Travel](https://github.com/Rubysage20/SNHUTRAVEL.git)
 
 ---
 
