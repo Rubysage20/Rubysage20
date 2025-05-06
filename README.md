@@ -21,7 +21,7 @@ Developed an interactive dashboard using Dash and MongoDB to visualize animal da
 
 ### 🎮 OpenGL 3D Graphics Engine
 Created a realistic 3D scene with terrain, Phong lighting, shaders, and textures using OpenGL and C++.
-- **GitHub**: [3D Scene](https://github.com/Rubysage20/3D-Scene)
+- **GitHub**: [3D Scene](https://github.com/Rubysage20/OpenGL-3D-Scene.git)
 
 ### 🧾 Snowball Stand POS
 Developed a console-based point-of-sale system with order tracking and receipt generation in Java.
