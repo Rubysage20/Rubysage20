@@ -9,7 +9,6 @@ Hi! I'm Valerie.
   - Tools: Git, Jupyter Notebook, OpenGL, Visual Studio
   - Methodologies: Agile, Scrum, TDD
  
-  - 
 ## 🧪 Projects & Labs
 
 ### 🔐 Blue Team Cybersecurity Labs
