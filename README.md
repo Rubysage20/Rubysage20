@@ -33,7 +33,7 @@ Built a system to manage book check-ins, returns, and due dates in C++.
 
 ### 🧪 JUnit Testing Suite
 Created automated tests for a Java inventory system using JUnit and Maven.
-- **GitHub**: [Software Testing and Automation](https://github.com/Rubysage20/Software-Testing-and-Automation)
+- **GitHub**: [Software Testing and Automation](https://github.com/Rubysage20/SoftwareTestingandAutomation.git)
 
 ### ✈️ SNHU Travel Agency Application (Scrum Project)
 Developed a desktop-based travel agency system using Visual Basic to simulate booking and navigation features.
