@@ -17,7 +17,7 @@ Hands-on exercises focusing on system hardening, intrusion detection systems (ID
 ### 🗺️ Grazioso Salvare Dashboard
 Developed an interactive dashboard using Dash and MongoDB to visualize animal data by location and use case.
 - **Technologies**: MongoDB, Bash, Python, Jupyter Notebook
-- **GitHub**: [Project Two Dashboard](https://github.com/Rubysage20/Project-Two-Dashboard)
+- **GitHub**: [Project Two Dashboard]([https://github.com/Rubysage20/Grazioso-Salvare-Dashboard.git])
 
 ### 🎮 OpenGL 3D Graphics Engine
 Created a realistic 3D scene with terrain, Phong lighting, shaders, and textures using OpenGL and C++.
