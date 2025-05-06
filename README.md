@@ -46,7 +46,7 @@ Developed a desktop-based travel agency system using Visual Basic to simulate bo
 Feel free to connect with me:
 
 - 📧 Email: valeriedawson513@gmail.com
-- 💼 LinkedIn: [Valerie Dawson](https://www.linkedin.com/in/valerie-dawson)
+- 💼 LinkedIn: [Valerie Dawson](https://www.linkedin.com/in/valerie-dawson-929413252/)
 
 
 <!---
