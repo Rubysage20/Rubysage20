@@ -3,9 +3,9 @@ Hi! I'm Valerie.
   - Bachelor of Science in Computer Science (Expected 2025)
   - Associate of Applied Science in Information Technology (2024)
 - 📚 **Certifications**:
-  - AWS Certified Cloud Practitioner (In Progress – Completion by June 10, 2025)
+  - AWS Certified Cloud Practitioner 
 - 💻 **Technical Skills**:
-  - Languages: Python, Java, C++, Bash
+  - Languages: Python, Java, C++, Visual Basic
   - Tools: Git, Jupyter Notebook, OpenGL, Visual Studio
   - Methodologies: Agile, Scrum, TDD
  
