@@ -25,9 +25,6 @@
 ###  Hospital Management System (Current Project)  
 A Java-based application that streamlines hospital operations such as patient management, appointment scheduling, doctor assignments, and payroll.  
 
-### Hospital Management System (Current Project)  
-A Java-based application that streamlines hospital operations such as patient management, appointment scheduling, doctor assignments, and payroll.  
-
 #### Completed Enhancements  
 - **Enhancement 1: Software Design & Engineering**  
   - Improved modular design for maintainability  
