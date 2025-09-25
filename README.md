@@ -1,43 +1,48 @@
-Hi! I'm Valerie.
-- 🎓 **Education**:
-  - Bachelor of Science in Computer Science (Expected 2025)
-  - Associate of Applied Science in Information Technology (2024)
-- 📚 **Certifications**:
-  - AWS Certified Cloud Practitioner 
-- 💻 **Technical Skills**:
-  - Languages: Python, Java, C++, Visual Basic
-  - Tools: Git, Jupyter Notebook, OpenGL, Visual Studio
-  - Methodologies: Agile, Scrum, TDD
- 
-## 🧪 Projects & Labs
+#  Hi! I'm Valerie  
 
-### 🔐 Blue Team Cybersecurity Labs
-Hands-on exercises focusing on system hardening, intrusion detection systems (IDS), and network security protocols.
+---
 
-### 🗺️ Grazioso Salvare Dashboard
-Developed an interactive dashboard using Dash and MongoDB to visualize animal data by location and use case.
-- **Technologies**: MongoDB, Bash, Python, Jupyter Notebook
-- **GitHub**: [Project Two Dashboard](https://github.com/Rubysage20/Grazioso-Salvare-Dashboard.git)
+## Education
+- **Bachelor of Science in Computer Science** (Expected 2025, SNHU)  
+- **Associate of Applied Science in Information Technology** (2024, CCBC)  
 
-### 🎮 OpenGL 3D Graphics Engine
-Created a realistic 3D scene with terrain, Phong lighting, shaders, and textures using OpenGL and C++.
-- **GitHub**: [3D Scene](https://github.com/Rubysage20/OpenGL-3D-Scene.git)
+---
 
-### 🧾 Snowball Stand POS
-Developed a console-based point-of-sale system with order tracking and receipt generation in Java.
-- **GitHub**: [Snowball Stand](https://github.com/Rubysage20/SnowballStand.git)
+## Certifications
+- AWS Certified Cloud Practitioner  
 
-### 📚 Library Management System
-Built a system to manage book check-ins, returns, and due dates in C++.
-- **GitHub**: [Library Management](https://github.com/Rubysage20/LibraryManagement-Cplusplus.git)
+---
 
-### 🧪 JUnit Testing Suite
-Created automated tests for a Java inventory system using JUnit and Maven.
-- **GitHub**: [Software Testing and Automation](https://github.com/Rubysage20/SoftwareTestingandAutomation.git)
+## Technical Skills
+- **Languages:** Python, Java, C++, Visual Basic  
+- **Tools:** Git, Jupyter Notebook, OpenGL, Visual Studio  
+- **Methodologies:** Agile, Scrum, Test-Driven Development (TDD)  
 
-### ✈️ SNHU Travel Agency Application (Scrum Project)
-Developed a desktop-based travel agency system using Visual Basic to simulate booking and navigation features.
-- **GitHub**: [SNHU Travel](https://github.com/Rubysage20/SNHUTRAVEL.git)
+---
+
+## Current Projects I am working on  
+
+### 🏥 Hospital Management System (Current Project)  
+A Java-based application that streamlines hospital operations such as patient management, appointment scheduling, doctor assignments, and payroll.  
+
+#### 🔹 Enhancement 2: Algorithms & Databases  
+Focused on improving **efficiency and scalability** through optimized algorithms and database integration.  
+
+- **Algorithms:**  
+  - Implemented hash maps for fast patient search  
+  - Priority queues for urgent appointment scheduling  
+  - Sorting algorithms for payroll reporting  
+
+- **Database:**  
+  - Schema refinement to reduce redundancy  
+  - Indexing for faster queries  
+  - Query optimization for large datasets  
+
+- **Tech Stack:** Java, MySQL/Oracle, JDBC  
+
+- **GitHub:** [Hospital Management System](https://github.com/Rubysage20/HospitalManagementSystem.git)  
+
+- 
 
 ---
 
