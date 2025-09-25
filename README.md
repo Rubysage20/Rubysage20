@@ -22,27 +22,40 @@
 
 ## Current Projects I am working on  
 
-### 🏥 Hospital Management System (Current Project)  
+###  Hospital Management System (Current Project)  
 A Java-based application that streamlines hospital operations such as patient management, appointment scheduling, doctor assignments, and payroll.  
 
-#### 🔹 Enhancement 2: Algorithms & Databases  
-Focused on improving **efficiency and scalability** through optimized algorithms and database integration.  
+### Hospital Management System (Current Project)  
+A Java-based application that streamlines hospital operations such as patient management, appointment scheduling, doctor assignments, and payroll.  
 
-- **Algorithms:**  
-  - Implemented hash maps for fast patient search  
-  - Priority queues for urgent appointment scheduling  
-  - Sorting algorithms for payroll reporting  
+#### Completed Enhancements  
+- **Enhancement 1: Software Design & Engineering**  
+  - Improved modular design for maintainability  
+  - Refactored classes for cleaner object-oriented structure  
+  - Added inline documentation and Javadoc for clarity  
 
-- **Database:**  
-  - Schema refinement to reduce redundancy  
-  - Indexing for faster queries  
-  - Query optimization for large datasets  
+- **Enhancement 2: Algorithms & Databases**  
+  - Implemented **hash maps** for faster patient search  
+  - Introduced **priority queues** for urgent appointment scheduling  
+  - Added **sorting algorithms** for organized payroll reporting  
+  - Refined database schema, added indexing, and optimized queries  
+
+#### Planned Enhancements  
+- **Enhancement 3: Security & Authentication**  
+  - Add role-based authentication for staff and administrators  
+  - Strengthen input validation and error handling  
+
+- **Enhancement 4: User Interface**  
+  - Build a GUI for better usability (JavaFX or web-based interface)  
+  - Include reporting dashboards for administrators  
+
+- **Enhancement 5: Cloud Deployment**  
+  - Containerize the application with Docker  
+  - Deploy on AWS with database hosting for scalability  
 
 - **Tech Stack:** Java, MySQL/Oracle, JDBC  
 
 - **GitHub:** [Hospital Management System](https://github.com/Rubysage20/Hospital.git)  
-
-- 
 
 ---
 
