@@ -40,7 +40,7 @@ Focused on improving **efficiency and scalability** through optimized algorithms
 
 - **Tech Stack:** Java, MySQL/Oracle, JDBC  
 
-- **GitHub:** [Hospital Management System](https://github.com/Rubysage20/HospitalManagementSystem.git)  
+- **GitHub:** [Hospital Management System](https://github.com/Rubysage20/Hospital.git)  
 
 - 
 
