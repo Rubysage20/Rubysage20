@@ -50,7 +50,7 @@ A Java-based application that streamlines hospital operations such as patient ma
   - Containerize the application with Docker  
   - Deploy on AWS with database hosting for scalability  
 
-- **Tech Stack:** Java, MySQL/Oracle, JDBC  
+- **Tech Stack:** Java, MongoDB, JDBC, React, Spring Boot, Maven
 
 - **GitHub:** [Hospital Management System](https://github.com/Rubysage20/Hospital.git)  
 
