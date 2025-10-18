@@ -3,7 +3,7 @@
 ---
 
 ## Education
-- **Bachelor of Science in Computer Science** (Expected 2025, SNHU)  
+- **Bachelor of Science in Computer Science** (Conferral Date: November 1st 2025, SNHU)  
 - **Associate of Applied Science in Information Technology** (2024, CCBC)  
 
 ---
