@@ -23,7 +23,7 @@
 
 ## Current Projects I am working on  
 
-###  Hospital Management System (Current Project)  
+###  Hospital Management System (Completed)  
 A Java-based application that streamlines hospital operations such as patient management, appointment scheduling, doctor assignments, and payroll.  
 
 #### Completed Enhancements  
@@ -54,8 +54,8 @@ A Java-based application that streamlines hospital operations such as patient ma
 - **Tech Stack:** Java, MongoDB, JDBC, React, Spring Boot, Maven
 
 - **GitHub:** [Hospital Management System](https://github.com/Rubysage20/Hospital.git)  
-
----
+    
+--- **Completed Enhancement** [Hospital Management System with Front End](https://rubysage20.github.io/ePortfolio/)
 
 ## 📫 Contact
 
