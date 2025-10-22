@@ -15,7 +15,7 @@
 
 ## Technical Skills
 - **Languages:** Python, Java, C++, Visual Basic
-- **Frameworks:** React, Angular, Maven, Spring Boot 
+- **Frameworks:** React, Angular, Maven, Spring Boot, Express
 - **Tools:** Git, Jupyter Notebook, OpenGL, Visual Studio  
 - **Methodologies:** Agile, Scrum, Test-Driven Development (TDD)  
 
