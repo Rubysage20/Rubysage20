@@ -9,7 +9,7 @@
 ---
 
 ## Certifications
-- AWS Certified Cloud Practitioner  
+- AWS Certified Cloud Practitioner (2026)
 
 ---
 
